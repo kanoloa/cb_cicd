@@ -1,6 +1,7 @@
 # modify by kanoloa, 23 May 2023
 # do not use this script in production code.
 # addtional lise.
+# demo for TB
 
 let cb = 2212;
 let factor = 2.14;
