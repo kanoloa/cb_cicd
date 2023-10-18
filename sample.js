@@ -2,9 +2,10 @@
 # do not use this script in production code.
 # addtional lise.
 # demo for TB
+# demo for NDES at 18th October 2023
 
 let cb = 2212;
-let factor = 2.14;
+let factor = 3.14;
 let version = "22.10 sp3";
 
 function sample() {
