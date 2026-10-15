@@ -1,11 +1,12 @@
-# modify by kanoloa, 23 May 2023
-# do not use this script in production code.
-# addtional lise.
-# demo for TB
-# demo for NDES at 18th October 2023
+// modify by kanoloa, 23 May 2023
+// do not use this script in production code.
+// addtional lise.
+// demo for TB
+// demo for NDES at 18th October 2023
 
 let cb = 2212;
 let factor = 3.1415926535;
+let instance_number = 1.3;
 let version = "22.10 sp3";
 
 function sample() {
@@ -15,4 +16,4 @@ function sample() {
   logger.debug("this code was executed using " + version);
 }
 
-### end of javascript code.
+// ### end of javascript code.
